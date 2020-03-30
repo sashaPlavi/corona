@@ -2,7 +2,7 @@
   <div class="row">
     <form @submit="onSubmit">
       <input type="text" v-model="contry" placeholder="Search by country" />
-      <input class="submit" type="submit" value="Submit" />
+      <input class="submit" type="submit" value="Search" />
     </form>
   </div>
 </template>

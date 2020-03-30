@@ -38,6 +38,6 @@ ul {
 }
 li {
   padding: 1rem;
-  background: #65c49a;
+  background: #5b6b7c;
 }
 </style>
